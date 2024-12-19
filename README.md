@@ -10,17 +10,16 @@ The project utilizes the **Breast Cancer Wisconsin (Diagnostic) dataset**, acces
 - **Target**: Binary classification - `0` for malignant and `1` for benign tumors.
 
 ## Methods Used
-1. **Data Exploration**: Initial exploration and preprocessing of the dataset.
-   - Checking dataset balance and understanding feature distributions.
+1. **Data Exploration**: Initial exploration, preprocessing of the dataset and understanding feature distributions.
 
-2. **Feature Engineering**: Applying techniques to select the most relevant features for model training.
+2. **Feature Engineering**: Selected the most relevant features for model training.
 
 3. **Machine Learning Models**:
    - Created and compared two machine learning models: **Logistic Regression** and **Random Forest Classifier**.
    - Evaluated model performance using metrics like accuracy, precision, recall, and F1-score.
    - Researched the best settings to achieve the most accurate results.
 
-4. **Visualization**: Visualized feature importance and classification results.
+4. **Visualization**: Visualized the decision tree, confusion matrix, ROC curves and the feature importance.
 
 ## Results
 The models provided accurate classifications with promising results. Logistic Regression and Random Forest Classifier both excelled in predictive accuracy.
